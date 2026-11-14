@@ -6,7 +6,7 @@ Prepared in compliance with the **Gebru et al. (Datasheets for Datasets)** frame
 
 ## 1. Motivation
 - **Why was the dataset created?** Created to document wholesale vegetable price fluctuations in Sri Lanka's Keppetipola Dedicated Economic Centre, helping local farmers, policy analysts, and machine-learning researchers predict food inflation cycles.
-- **Who funded/created the dataset?** Self-funded; compiled and cleaned by [Your Name] ([Your University / Affiliation]). Contact: [Your Email or GitHub Issues URL].
+- **Who funded/created the dataset?** Self-funded; collected by AGN Chathuranga and the infamous other Chathuranga. Compiled and cleaned by Anton Jayakody (NSBM Green University). Contact: anton.j@nsbm.ac.lk.
 
 ## 2. Composition
 - **What do the instances represent?** Daily wholesale price observations per crop.
@@ -72,7 +72,7 @@ Prepared in compliance with the **Gebru et al. (Datasheets for Datasets)** frame
 - **Formats:** Standard comma-separated values (CSV).
 
 ## 7. Maintenance
-- **Who maintains the dataset?** Maintained by [Your Name]. Please submit bug reports and queries to [Your Email or GitHub Issues URL].
+- **Who maintains the dataset?** Maintained by Anton Jayakody. Please submit bug reports and queries to <anton.j@nsbm.ac.lk> or use the github repo at *https://github.com/tobijay666/Sri-Lankan-Agri-Food-Economic-Open-Data*
 - **Updates:** Periodically appended as newer monthly bulletins are processed.
 
 ---
@@ -82,11 +82,11 @@ If you use this dataset, please cite it as follows:
 
 ```bibtex
 @misc{keppetipola_vegetable_prices_2024_2026,
-  author = {[Your Name]},
+  author = {Anton Jayakody},
   title = {Keppetipola Wholesale Vegetable Prices Dataset (2024-2026)},
   year = {2026},
   publisher = {Zenodo},
-  doi = {[INSERT RESERVED ZENODO DOI]},
-  url = {https://github.com/[YourUsername]/[YourRepository]}
+  doi = {https://doi.org/10.5281/zenodo.24214018},
+  url = {https://github.com/tobijay666/Sri-Lankan-Agri-Food-Economic-Open-Data OR https://zenodo.org/records/24214018}
 }
 ```
