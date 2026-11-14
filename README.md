@@ -68,11 +68,11 @@ Prepared in compliance with the **Gebru et al. (Datasheets for Datasets)** frame
 - **What should be avoided?** Standard random splits on validation/testing sets because of high temporal autocorrelation and carried-forward days. Use rolling-window splits instead.
 
 ## 6. Distribution
-- **Licensing:** Distributed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license.
+- **Licensing:** Distributed under the Apache 2.0 Licsence
 - **Formats:** Standard comma-separated values (CSV).
 
 ## 7. Maintenance
-- **Who maintains the dataset?** Maintained by Anton Jayakody. Please submit bug reports and queries to <anton.j@nsbm.ac.lk> or use the github repo at *https://github.com/tobijay666/Sri-Lankan-Agri-Food-Economic-Open-Data*
+- **Who maintains the dataset?** Maintained by Anton Jayakody. Please submit bug reports and queries to <anton.j@nsbm.ac.lk> or use the github repo at `https://github.com/tobijay666/Sri-Lankan-Agri-Food-Economic-Open-Data`
 - **Updates:** Periodically appended as newer monthly bulletins are processed.
 
 ---
